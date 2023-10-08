@@ -3,7 +3,7 @@ navname: AI
 
 # navigatior items
 nav:
-  联系我们: https://o.n2book.com
+  联系我们: /about
   文档: /archives
   版本: /version
   
